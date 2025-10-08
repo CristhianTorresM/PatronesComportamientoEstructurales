@@ -181,7 +181,7 @@ public class PatronesComportamientoEstructurales {
         System.out.println("Representación completa: " + empresa);
 
         // ==========================================================
-        //  PATRÓN DECORATOR
+        //  PATRON DECORATOR
         // ==========================================================
         System.out.println("\n=== PRUEBA DEL PATRÓN DECORATOR ===");
 
